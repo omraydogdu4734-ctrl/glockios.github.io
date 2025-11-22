@@ -1,0 +1,8 @@
+Origin: GLOCK iOS Repo
+Label: GLOCK iOS Repo
+Suite: stable
+Version: 1.0
+Codename: iphoneos-arm
+Architectures: iphoneos-arm
+Components: main
+Description: glockios - Private Tweak Repo
